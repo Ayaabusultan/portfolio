@@ -105,7 +105,8 @@ a {
 }
 
 .con-details{
-  border: 2px solid #a94442;
+  border: 2px solid #f2f5f9;
+  /* border-right: 2px solid #a94442; */
 
 }
 
