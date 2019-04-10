@@ -12,10 +12,9 @@
 [Click here](https://github.com/ayaabusultan/portfolio) to check out my project's repo.
 
 ## The **home** page is the portfolio page which has links to the following pages:
-1. __About me__: a page contains my name, education, skills and background.
-2. __My Blog__
-3. __Projects__: _links_ for my projects with a brief _description_ about them.
-4. __contact me__
+1. __About me__
+2. __Projects__: _links_ for my projects with a brief _description_ about them.
+3. __contact me__
 
 
 ## work in progress
